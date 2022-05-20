@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muntasir
 - 👀 I’m interested in Coding, Test Automation.
 - 🌱 I’m currently learning New Technologies.
-- 💞️ I’m looking to collaborate on ... Open oroject
+- 💞️ I’m looking to collaborate on ... Open project
 - 📫 How to reach me ...> muntasir.abdullah01@gmail.com
 
 <!---
