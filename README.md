@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **code never hurt you !!!**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
