@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **muntasir.abdullah01@gmail.com**
 
-- ⚡ Fun fact **code never hurt you !!!**
+- ⚡ Fun fact **Code never hurt you !!! Let's code !! **
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
